@@ -1,0 +1,51 @@
+body {    width: 60%;    margin: 40px auto;   ; }
+
+.greyColoum {    border-left: 2px solid black;   }
+
+header{
+    padding: 60px;
+}
+
+main{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+
+
+h1  {
+    font-weight: 900;
+}
+
+header h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header p {
+    font-weight: initial;
+    font-family: 'Roboto', sans-serif
+}
+
+h2{
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(3, 3, 116);
+    margin-top: 40px;
+}
+
+h3{
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+
+.italique{
+    font-style: italic;
+}
+
+.competences{
+    padding-top: 30px;
+    
+}
